@@ -1,8 +1,8 @@
 
 # SEO settings
-title: "mrpnkt"
-title2: "space" # default: ""
-description: "Just some testing"
+title: "clickclick"
+title2: "boom" # default: ""
+description: "i have a blog now"
 keywords: "mrpnkt, blog, github, jekyll, "
 url: http://mrpnkt.github.io/ # site url
 #baseurl: ""  apply repo name if use it under gh-pages branch
