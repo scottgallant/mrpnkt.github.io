@@ -3,15 +3,15 @@
 title: "mrpnkt"
 title2: "space" # default: ""
 description: "Just some testing"
-keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
+keywords: "mrpnkt, blog, github, jekyll, "
 url: http://mrpnkt.github.io/ # site url
 #baseurl: ""  apply repo name if use it under gh-pages branch
 baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: # UA-XXXXX-XX
 repo: http://github.com/heiswayi/thinkspace
-disqus_shortname: # "heiswayi"
-twitter_username: # "HeiswayiNrird"
+disqus_shortname: # mrpnkt
+twitter_username: mrpnkt
 comments: true
 
 # Build settings
@@ -30,15 +30,15 @@ sass:
 # Author settings
 author:
   name     : "mrpnkt"
-  job      : "problem solver"
-  bio      : "eat, sleep, learn, die"
+  job      : "curious"
+  bio      : "learning to break stuff"
   thumb    : /images/author.jpg
   email    : mr@mrpnkt.com
-  url      : http://mrpnkt.github.io
-  github   : http://github.com/mrpnkt
-  twitter  : http://twitter.com/mrpnkt
+  url      : https://mrpnkt.github.io
+  github   : https://github.com/mrpnkt
+  twitter  : https://twitter.com/mrpnkt
   facebook : # https://www.facebook.com/profile.php?id=666
-  linkedin : http://linkedin.com/in/mrpnkt
+  linkedin : https://es.linkedin.com/in/mrpnkt
 
 # social settings
 og_locale: "en_US"
