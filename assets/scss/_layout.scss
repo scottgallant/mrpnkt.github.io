@@ -33,7 +33,7 @@ body {
 
 hr {
   border-top: none;
-  border-bottom: 2px solid lighten($dark-gray-color, 7%);
+  border-bottom: 2px solid lighten($light-gray-color, 7%);
   width: 100%;
   margin: $small-spacing 0;
 }
@@ -98,7 +98,7 @@ hr {
   font-size: 20px;
   line-height: 35px;
   font-weight: 300;
-  background: url('../images/skull1.gif') no-repeat -29px -31px;
+  background: url('../images/ncat.gif') no-repeat -29px -31px;
   text-indent: 50px;
 
   span {
@@ -129,7 +129,7 @@ hr {
 }
 
 .post-list {
-  background-color: darken($dark-gray-color, 17%);
+  background-color: lighten($light-gray-color, 17%);
 }
 
 .category-title {
