@@ -3,7 +3,7 @@
 title: "clickclick"
 title2: "boom" # default: ""
 description: "i have a blog now"
-keywords: "mrpnkt, blog, github, jekyll, "
+keywords: "mrpnkt, blog, github, jekyll, test, beta"
 url: http://mrpnkt.github.io/ # site url
 #baseurl: ""  apply repo name if use it under gh-pages branch
 baseurl: null # apply null if repo name is something like username.github.io
@@ -12,7 +12,7 @@ google_analytics: # UA-XXXXX-XX
 repo: http://github.com/heiswayi/thinkspace
 disqus_shortname: # mrpnkt
 twitter_username: mrpnkt
-comments: true
+comments: false
 
 # Build settings
 permalink   : /:year/:title/
