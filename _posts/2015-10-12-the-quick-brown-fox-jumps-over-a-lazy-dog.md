@@ -1,11 +1,15 @@
 ---
+title: The quick, brown fox jumps over a lazy dog
+date: '2015-10-12 00:00:00'
+categories: []
 layout: post
-title: "The quick, brown fox jumps over a lazy dog"
 comments: true
-description: "The quick, brown fox jumps over a lazy dog"
-keywords: "dummy content"
----
+description: The quick, brown fox jumps over a lazy dog
+keywords: dummy content
+slug: the-quick-brown-fox-jumps-over-a-lazy-dog
+tags: []
 
+---
 The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps. Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex! Fox nymphs grab quick-jived waltz.
 
 Brick quiz whangs jumpy veldt fox. Bright vixens jump; dozy fowl quack. Quick wafting zephyrs vex bold Jim. Quick zephyrs blow, vexing daft Jim. Sex-charged fop blew my junk TV quiz. How quickly daft jumping zebras vex.

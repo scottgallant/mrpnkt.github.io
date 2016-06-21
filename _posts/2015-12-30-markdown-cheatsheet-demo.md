@@ -1,11 +1,15 @@
 ---
+title: Markdown Cheatsheet Demo
+date: '2015-12-30 00:00:00'
+categories: []
 layout: post
-title: "Markdown Cheatsheet Demo"
 comments: true
-description: "Markdown Cheatsheet Demo..."
-keywords: "markdown, typography components, dummy content"
----
+description: Markdown Cheatsheet Demo...
+keywords: markdown, typography components, dummy content
+slug: markdown-cheatsheet-demo
+tags: []
 
+---
 > This is Markdown Cheatsheet Demo for **Thinkspace**, this Jekyll theme. Please check the raw content of this file for the markdown usage.
 
 ## Typography Elements in One

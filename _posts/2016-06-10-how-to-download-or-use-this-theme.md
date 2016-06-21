@@ -1,11 +1,15 @@
 ---
+title: Here is How to Download/Use This Theme
+date: '2016-06-10 00:00:00'
+categories: []
 layout: post
-title: "Here is How to Download/Use This Theme"
 comments: true
-description: "Here is How to Download/Use This Theme"
-keywords: "dummy content"
----
+description: Here is How to Download/Use This Theme
+keywords: dummy content
+slug: how-to-download-or-use-this-theme
+tags: []
 
+---
 ### Use this theme as you main site
 
 - Download or fork the master branch of this theme repo into you GitHub account.
