@@ -1,46 +1,13 @@
 @font-face {
-    font-family: 'RobotoSlabBold';
-    src: url('../fonts/eot/RobotoSlab-Bold-webfont.eot');
-    src: url('../fonts/eot/RobotoSlab-Bold-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/woff/RobotoSlab-Bold-webfont.woff') format('woff'),
-         url('../fonts/ttf/RobotoSlab-Bold-webfont.ttf') format('truetype'),
-         url('../fonts/svg/RobotoSlab-Bold-webfont.svg#roboto_slabbold') format('svg');
+    font-family: 'DroidSansMono';
+    src: url('../fonts/eot/DroidSansMono-webfont.eot');
+    src: url('../fonts/eot/DroidSansMono-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/woff/DroidSansMono-webfont.woff') format('woff'),
+         url('../fonts/ttf/DroidSansMono-webfont.ttf') format('truetype'),
+         url(''../fonts/svg/DroidSansMono-webfont.svg#droid_sans_monoregular') format('svg');
     font-weight: normal;
     font-style: normal;
 
-}
-
-@font-face {
-    font-family: 'RobotoSlab';
-    src: url('../fonts/eot/RobotoSlab-Regular-webfont.eot');
-    src: url('../fonts/eot/RobotoSlab-Regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/woff/RobotoSlab-Regular-webfont.woff') format('woff'),
-         url('../fonts/ttf/RobotoSlab-Regular-webfont.ttf') format('truetype'),
-         url('../fonts/svg/RobotoSlab-Regular-webfont.svg#roboto_slabbold') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'RobotoSlabThin';
-    src: url('../fonts/eot/RobotoSlab-Thin-webfont.eot');
-    src: url('../fonts/eot/RobotoSlab-Thin-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/woff/RobotoSlab-Thin-webfont.woff') format('woff'),
-         url('../fonts/ttf/RobotoSlab-Thin-webfont.ttf') format('truetype'),
-         url('../fonts/svg/RobotoSlab-Thin-webfont.svg#roboto_slabbold') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'RobotoSlabLight';
-    src: url('../fonts/eot/RobotoSlab-Light-webfont.eot');
-    src: url('../fonts/eot/RobotoSlab-Light-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/woff/RobotoSlab-Light-webfont.woff') format('woff'),
-         url('../fonts/ttf/RobotoSlab-Light-webfont.ttf') format('truetype'),
-         url('../fonts/svg/RobotoSlab-Light-webfont.svg#roboto_slabbold') format('svg');
-    font-weight: normal;
-    font-style: normal;
 }
 
 body {
