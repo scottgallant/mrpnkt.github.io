@@ -78,7 +78,7 @@ hr {
   .author-name {
     display: inline-block;
     padding: 0 .2em;
-    background: lighten($dark-gray-color, 15%)
+    background: lighten($light-gray-color, 15%)
   }
 
   a {
@@ -129,7 +129,7 @@ hr {
 }
 
 .post-list {
-  background-color: lighten($light-gray-color, 17%);
+  background-color: darken($dark-gray-color, 17%);
 }
 
 .category-title {
