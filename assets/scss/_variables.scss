@@ -21,7 +21,8 @@ $base-z-index: 0;
 
 // Colors
 $primary-color: #000;
-$action-color: red;
+$action-color:  $primary-color;
+$hover-color: red;
 $white-color: #fff;
 $black-color: #000;
 $blue-color: #222;
