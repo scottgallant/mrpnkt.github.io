@@ -5,19 +5,17 @@
     <description>i have a blog now.</description>
     <link>http://mrpnkt.github.io//</link>
     <atom:link href="http://mrpnkt.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 Jun 2016 07:56:40 +0000</pubDate>
-    <lastBuildDate>Wed, 22 Jun 2016 07:56:40 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Jun 2016 08:04:01 +0000</pubDate>
+    <lastBuildDate>Wed, 22 Jun 2016 08:04:01 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Howto create a github/jekyll page with a few clicks</title>
         <description>&lt;p&gt;&lt;img src=&quot;/forestryio/images/JekyllLogo.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;In this first post I’m going to explain how to create a github page in three easy steps using Jekyll, the static page generator. If you don’t want to go through the hassle of installing dozens of dependencies, pulling and pushing from your terminal this is one easy option to do it:&lt;/p&gt;
+&lt;p&gt;In this first post I’m going to explain how to create a &lt;a href=&quot;https://pages.github.com/&quot;&gt;github page&lt;/a&gt; in three easy steps using &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, the static page generator. If you don’t want to go through the hassle of installing dozens of dependencies, pulling and pushing from your terminal this is one easy option to do it:&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Find a theme you like and clone the repository&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h3 id=&quot;find-a-theme-you-like-and-clone-the-repository&quot;&gt;&lt;strong&gt;1.  Find a theme you like and clone the repository&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;Browse to http://jekyllthemes.org/ and find a theme you like. We’ll choose http://jekyllthemes.org/themes/jekyll-resume/ for demonstration. Click on &lt;code class=&quot;highlighter-rouge&quot;&gt;Homepage&lt;/code&gt; to get to the themes repository and fork it:&lt;/p&gt;
 
@@ -27,9 +25,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/forestryio/images/2016-06-22 09_06_09-andilukas_jekyll-resume_-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Sign up for the Forestry.io-beta and import your repository&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h3 id=&quot;sign-up-for-the-forestryio-beta-and-import-your-repository&quot;&gt;&lt;strong&gt;2.  Sign up for the Forestry.io-beta and import your repository&lt;/strong&gt;&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;/forestryio/images/2016-06-22 08_57_36-Forestry.io.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -41,9 +37,8 @@
 
 &lt;p&gt;&lt;img src=&quot;/forestryio/images/2016-06-22 09_17_49-Forestry.io.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Your site will show up in the &lt;code class=&quot;highlighter-rouge&quot;&gt;My Sites&lt;/code&gt; section of the dashboard. Use the &lt;code class=&quot;highlighter-rouge&quot;&gt;Edit content&lt;/code&gt; button to add and edit pages and posts&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h3 id=&quot;your-site-will-show-up-in-the-my-sites-section-of-the-dashboard-use-the-edit-content-button-to-add-and-edit-pages-and-posts&quot;&gt;**3.  Your site will show up in the &lt;code class=&quot;highlighter-rouge&quot;&gt;My Sites&lt;/code&gt; section of the dashboard. Use the &lt;code class=&quot;highlighter-rouge&quot;&gt;Edit content&lt;/code&gt; button to add and edit pages and posts&lt;/h3&gt;
+&lt;p&gt;**&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/forestryio/images/2016-06-22 09_29_43-Forestry.io-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
