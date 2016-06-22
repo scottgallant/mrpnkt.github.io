@@ -1,5 +1,5 @@
 ---
-title: Howto create a github/jekyll page with a few clicks
+title: Howto create a github page with jekyll in a few clicks
 date: '2016-06-22 06:39:00'
 categories: []
 layout: post
