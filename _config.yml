@@ -9,10 +9,10 @@ url: http://mrpnkt.github.io/ # site url
 baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: #  UA-XXXXX-XX
-repo: http://github.com/heiswayi/thinkspace
-disqus_shortname: # mrpnkt
+repo: http://github.com/mrpnkt/mrpnkt.github.io
+disqus_shortname: mrpnkt
 twitter_username: mrpnkt
-comments: false
+comments: true
 
 # Build settings
 permalink   : /:year/:title/
