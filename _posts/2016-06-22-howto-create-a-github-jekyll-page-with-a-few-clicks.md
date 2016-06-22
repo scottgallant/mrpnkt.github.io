@@ -21,6 +21,8 @@ Once the theme is cloned to your github account, enter the Settings and change t
 
 ### **2.  Sign up for the Forestry.io-beta and import your repository**
 
+Currently beta. Request invite here: [forestry.io](https://forestry.io).
+
 ![]({{ site.baseurl }}/forestryio/images/2016-06-22 08_57_36-Forestry.io.png)
 
 Once you receive the invite log in to your [forestry.io](https://forestry.io/) account and click `+Add Site` and add from github:
