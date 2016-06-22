@@ -5,13 +5,13 @@
     <description>i have a blog now.</description>
     <link>http://mrpnkt.github.io//</link>
     <atom:link href="http://mrpnkt.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 Jun 2016 07:48:47 +0000</pubDate>
-    <lastBuildDate>Wed, 22 Jun 2016 07:48:47 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Jun 2016 07:52:34 +0000</pubDate>
+    <lastBuildDate>Wed, 22 Jun 2016 07:52:34 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Howto create a github/jekyll page with a few clicks</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/&quot; alt=&quot;&quot; /&gt;_Logo.jpg)_Logo.jpg)&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/&quot; alt=&quot;&quot; /&gt;_Logo.jpg)&lt;/p&gt;
 
 &lt;p&gt;In this first post I’m going to explain how to create a github page in three easy steps using Jekyll, the static page generator. If you don’t want to go through the hassle of installing dozens of dependencies, pulling and pushing from your terminal this is one easy option to do it:&lt;/p&gt;
 
@@ -50,36 +50,6 @@
         <pubDate>Wed, 22 Jun 2016 06:39:00 +0000</pubDate>
         <link>http://mrpnkt.github.io//2016/howto-create-a-github-jekyll-page-with-a-few-clicks/</link>
         <guid isPermaLink="true">http://mrpnkt.github.io//2016/howto-create-a-github-jekyll-page-with-a-few-clicks/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Here is How to Download/Use This Theme</title>
-        <description>&lt;h3 id=&quot;use-this-theme-as-you-main-site&quot;&gt;Use this theme as you main site&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Download or fork the master branch of this theme repo into you GitHub account.&lt;/li&gt;
-  &lt;li&gt;Rename the repo into something like &lt;code class=&quot;highlighter-rouge&quot;&gt;your_username.github.io&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file to your preferences.&lt;/li&gt;
-  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;about.md&lt;/code&gt; file for your About page.&lt;/li&gt;
-  &lt;li&gt;Inside &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder, there are sample of blog entries. Learn from it and start yours.&lt;/li&gt;
-  &lt;li&gt;Now, visit &lt;code class=&quot;highlighter-rouge&quot;&gt;http://your_username.github.io&lt;/code&gt; and you should see your blog running.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;use-this-theme-as-a-project-page&quot;&gt;Use this theme as a project page&lt;/h3&gt;
-
-&lt;p&gt;If you want to use this theme as a project page blog, you don’t need to rename the theme repo into &lt;code class=&quot;highlighter-rouge&quot;&gt;your_username.github.io&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;All you need to do, open &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file, change &lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl&lt;/code&gt; to your project name which contains this theme, e.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl: &quot;/myproject&quot;&lt;/code&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Any question/problem, ask me or report it &lt;a href=&quot;https://github.com/heiswayi/thinkspace/issues&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Fri, 10 Jun 2016 00:00:00 +0000</pubDate>
-        <link>http://mrpnkt.github.io//2016/how-to-download-or-use-this-theme/</link>
-        <guid isPermaLink="true">http://mrpnkt.github.io//2016/how-to-download-or-use-this-theme/</guid>
         
         
       </item>
