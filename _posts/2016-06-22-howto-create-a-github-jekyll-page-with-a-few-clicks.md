@@ -15,5 +15,11 @@ Browse to http://jekyllthemes.org/ and find a theme you like. We'll choose http:
 
 ![]({{ site.baseurl }}/forestryio/images/2016-06-22 08_51_45-mattcouchman_jekyll-resume-1.png)
 
-2. Clone 
+Once the theme is clone to your github account, enter Settings and change the Repository name to `YOURNAME.github.io`:
+
+![]({{ site.baseurl }}/forestryio/images/2016-06-22 09_06_09-andilukas_jekyll-resume_-1.png)
+
+2. Sign up at Forestry.io
+
+
 
