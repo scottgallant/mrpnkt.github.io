@@ -13,7 +13,7 @@ In this first post I'm going to explain how to create a [github page](https://pa
 
 ### **1.  Find a theme you like and clone the repository**
 
-Browse to http://jekyllthemes.org/ and find a theme you like. We'll choose http://jekyllthemes.org/themes/jekyll-resume/ for demonstration. Click on `Homepage` to get to the themes repository and fork it:
+Browse to [http://jekyllthemes.org/](http://jekyllthemes.org/) and find a theme you like. We'll choose [http://jekyllthemes.org/themes/jekyll-resume/](http://jekyllthemes.org/themes/jekyll-resume/) for demonstration. Click on `Homepage` to get to the themes repository and fork it:
 
 ![]({{ site.baseurl }}/forestryio/images/2016-06-22 08_51_45-mattcouchman_jekyll-resume-1.png)
 
@@ -33,7 +33,6 @@ Click through the options and select the branch you want to deploy to. Save your
 
 ![]({{ site.baseurl }}/forestryio/images/2016-06-22 09_17_49-Forestry.io.png)
 
-### **3.  Your site will show up in the `My Sites` section of the dashboard. Use the `Edit content` button to add and edit pages and posts
-**
+### **3.  Your site will show up in the `My Sites` section of the dashboard. Use the `Edit content` button to add and edit pages and posts**
 
 ![]({{ site.baseurl }}/forestryio/images/2016-06-22 09_29_43-Forestry.io-1.png)
