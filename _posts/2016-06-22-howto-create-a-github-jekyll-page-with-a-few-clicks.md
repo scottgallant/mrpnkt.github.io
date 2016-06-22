@@ -1,10 +1,13 @@
 ---
 title: Howto create a github/jekyll page with a few clicks
 date: '2016-06-22 06:39:00'
+categories: []
 layout: post
+slug: howto-create-a-github-jekyll-page-with-a-few-clicks
+tags: []
 
 ---
-![]({{ site.baseurl }}/)_Logo.jpg)
+![]({{ site.baseurl }}/)_Logo.jpg)_Logo.jpg)
 
 In this first post I'm going to explain how to create a github page in three easy steps using Jekyll, the static page generator. If you don't want to go through the hassle of installing dozens of dependencies, pulling and pushing from your terminal this is one easy option to do it:
 
