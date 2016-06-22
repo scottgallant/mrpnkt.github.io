@@ -5,15 +5,13 @@
     <description>i have a blog now.</description>
     <link>http://mrpnkt.github.io//</link>
     <atom:link href="http://mrpnkt.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 Jun 2016 08:07:40 +0000</pubDate>
-    <lastBuildDate>Wed, 22 Jun 2016 08:07:40 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Jun 2016 10:45:53 +0000</pubDate>
+    <lastBuildDate>Wed, 22 Jun 2016 10:45:53 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
         <title>Howto create a github/jekyll page with a few clicks</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/forestryio/images/JekyllLogo.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In this first post I’m going to explain how to create a &lt;a href=&quot;https://pages.github.com/&quot;&gt;github page&lt;/a&gt; in three easy steps using &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, the static page generator. If you don’t want to go through the hassle of installing dozens of dependencies, pulling and pushing from your terminal this is one easy option to do it:&lt;/p&gt;
+        <description>&lt;p&gt;In this first post I’m going to explain how to create a &lt;a href=&quot;https://pages.github.com/&quot;&gt;github page&lt;/a&gt; in three easy steps using &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, the static page generator. If you don’t want to go through the hassle of installing dozens of dependencies, pulling and pushing from your terminal this is one easy option to do it:&lt;/p&gt;
 
 &lt;h3 id=&quot;find-a-theme-you-like-and-clone-the-repository&quot;&gt;&lt;strong&gt;1.  Find a theme you like and clone the repository&lt;/strong&gt;&lt;/h3&gt;
 
@@ -37,7 +35,9 @@
 
 &lt;p&gt;&lt;img src=&quot;/forestryio/images/2016-06-22 09_17_49-Forestry.io.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;your-site-will-show-up-in-the-my-sites-section-of-the-dashboard-use-the-edit-content-button-to-add-and-edit-pages-and-posts&quot;&gt;&lt;strong&gt;3.  Your site will show up in the &lt;code class=&quot;highlighter-rouge&quot;&gt;My Sites&lt;/code&gt; section of the dashboard. Use the &lt;code class=&quot;highlighter-rouge&quot;&gt;Edit content&lt;/code&gt; button to add and edit pages and posts&lt;/strong&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;start-editing&quot;&gt;&lt;strong&gt;3.  Start editing&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Your site will show up in the &lt;code class=&quot;highlighter-rouge&quot;&gt;My Sites&lt;/code&gt; section of the dashboard. Use the &lt;code class=&quot;highlighter-rouge&quot;&gt;Edit content&lt;/code&gt; button to add and edit pages and posts&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/forestryio/images/2016-06-22 09_29_43-Forestry.io-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </description>
