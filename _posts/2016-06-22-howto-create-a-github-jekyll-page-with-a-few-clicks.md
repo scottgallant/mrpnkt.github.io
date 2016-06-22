@@ -7,7 +7,7 @@ slug: howto-create-a-github-jekyll-page-with-a-few-clicks
 tags: []
 
 ---
-![]({{ site.baseurl }}/)_Logo.jpg)
+![]({{ site.baseurl }}/forestryio/images/JekyllLogo.jpg)
 
 In this first post I'm going to explain how to create a github page in three easy steps using Jekyll, the static page generator. If you don't want to go through the hassle of installing dozens of dependencies, pulling and pushing from your terminal this is one easy option to do it:
 
@@ -35,4 +35,4 @@ Click through the options and select the branch you want to deploy to. Save your
 
 3.  Your site will show up in the `My Sites` section of the dashboard. Use the `Edit content` button to add and edit pages and posts
 
-![]({{ site.baseurl }}/forestryio/images/2016-06-22 09_29_43-Forestry.io.png)
+![]({{ site.baseurl }}/forestryio/images/2016-06-22 09_29_43-Forestry.io-1.png)
