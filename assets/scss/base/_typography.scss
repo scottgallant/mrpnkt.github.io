@@ -58,6 +58,15 @@
 
 }
 
+::selection {
+  background: $highlight-color;
+  color: $dark-gray-color;
+}
+::-moz-selection {
+  background: $highlight-color;
+  color: $dark-gray-color;
+}
+
 body {
   color: $base-font-color;
   font-family: $base-font-family;
