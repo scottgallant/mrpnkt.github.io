@@ -2,7 +2,6 @@
 title: Howto create a github/jekyll page with a few clicks
 date: '2016-06-22 06:39:00'
 layout: post
-draft: true
 
 ---
 ![]({{ site.baseurl }}/)_Logo.jpg)
@@ -19,7 +18,18 @@ Once the theme is cloned to your github account, enter the Settings and change t
 
 ![]({{ site.baseurl }}/forestryio/images/2016-06-22 09_06_09-andilukas_jekyll-resume_-1.png)
 
-2. Sign up at Forestry.io
+2. Sign up for the Forestry.io-beta and import your repository
 
+![]({{ site.baseurl }}/forestryio/images/2016-06-22 08_57_36-Forestry.io.png)
 
+Once you receive the invite log in to your [forestry.io](https://forestry.io/) account and click `+Add Site` and add from github:
 
+![]({{ site.baseurl }}/forestryio/images/2016-06-22 09_16_09-Forestry.io.png)
+
+Click through the options and select the branch you want to deploy to. Save your settings and you're done setting up the site in forestry:
+
+![]({{ site.baseurl }}/forestryio/images/2016-06-22 09_17_49-Forestry.io.png)
+
+3. Your site will show up in the `My Sites` section of the dashboard. Use the `Edit content` button to add and edit pages and posts
+
+![]({{ site.baseurl }}/forestryio/images/2016-06-22 09_29_43-Forestry.io.png)
