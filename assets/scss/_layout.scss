@@ -72,10 +72,11 @@ hr {
   border-bottom: 1px solid lighten($light-gray-color, 5%);
   margin-bottom: $small-spacing;
   min-height: 80px;
-  background: $medium-gray-color;
 }
 
 .intro {
+  background: $medium-gray-color;
+	
   .author-name {
     display: inline-block;
     padding: 0 .2em;
